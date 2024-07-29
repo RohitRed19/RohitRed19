@@ -16,6 +16,27 @@
  <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
 I'm a passionate Software Developer with experience in building scalable and efficient software solutions. Currently working at Media.net, where I've been instrumental in implementing revenue-boosting features and optimizing development processes.
+
+## 🚀 Quick Highlights
+
+- 💻 Skilled in Java, Groovy, JavaScript, and Python
+- ☁️ Experience with AWS and cloud technologies
+- 🐳 Proficient in Docker and Kubernetes
+- 🛠️ Familiar with CI/CD pipelines using GitHub Actions and Jenkins
+- 📊 Knowledgeable in database technologies like MySQL, Redis, and Aerospike
+- 🔄 Experienced in migrating services and optimizing codebases
+
+## 🎓 Education
+
+B.E. in Information Science and Engineering from Sri M. Visvesvaraya Institute of Technology.
+
+## 🔗 Let's Connect!
+
+Feel free to reach out for collaborations or just a chat about technology!
+
+[LinkedIn](https://www.linkedin.com/in/rohit-reddy19/) | [Email](mailto:pintureddy45@gmail.com)
+
+
+
